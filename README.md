@@ -135,10 +135,24 @@ Chess strategy sharpens my design thinking, and tennis keeps my iteration cycles
 ---
 
 ## 📝 Latest Writing & Talks
+<div align="center">
 
-- **Data Contracts in Practice** – How schema governance cut rework across 20+ teams. *(Link: coming soon)*
-- **Scaling LLM Inference on GPUs** – Patterns that kept costs predictable during traffic spikes. *(Link: blog / deck)*
-- **Graph Features for Fraud** – Why Neo4j centrality scores boosted detection precision. *(Link: notebook)*
+```mermaid
+graph TD
+    A[🧠 AI Architecture] --> B[Data Pipeline Optimization]
+    A --> C[ML Model Deployment]
+    B --> D[Real-time Analytics]
+    C --> E[Scalable Solutions]
+    D --> F[🚀 Production Ready]
+    E --> F
+    
+    style A fill:#1E3A8A,stroke:#3B82F6,stroke-width:2px,color:#fff
+    style F fill:#059669,stroke:#10B981,stroke-width:2px,color:#fff
+```
+
+**Data Contracts in Practice** – How schema governance cut rework across 20+ teams. *(Link: coming soon)*
+**Scaling LLM Inference on GPUs** – Patterns that kept costs predictable during traffic spikes. *(Link: blog / deck)*
+**Graph Features for Fraud** – Why Neo4j centrality scores boosted detection precision. *(Link: notebook)*
 
 ---
 
