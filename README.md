@@ -32,11 +32,23 @@ class DataArchitect:
         ]
 ```
 
+**Core strengths:**
+- Event-driven lakehouse governance with data contracts and quality gates
+- MLOps on Azure, AWS, and hybrid GPU clusters with FinOps discipline
+- Graph analytics with Neo4j and feature engineering for fraud/recsys
+- Observability, SLOs, and cost-aware architecture reviews
+
 </div>
 
 ---
 
 ## 🛠️ Tech Arsenal
+
+### 🚀 Featured Impact
+- **Event-driven lakehouse** – Cut batch ETL runtime by **35%** while serving **5B+ monthly events** for downstream analytics.
+- **Multi-cloud LLM platform** – Deployed resilient inference across **Azure + AWS** with **99.9% uptime** and autoscaling GPU clusters.
+- **Real-time fraud signals** – Built streaming graph features on **Neo4j** that reduced false positives by **22%**.
+- **LLMOps control plane** – Established evals + rollout guardrails to keep latency steady during **10x** traffic spikes.
 
 <div align="center">
 
@@ -80,20 +92,12 @@ class DataArchitect:
 ## 🎯 What I'm Working On
 
 <div align="center">
-
-```mermaid
-graph TD
-    A[🧠 AI Architecture] --> B[Data Pipeline Optimization]
-    A --> C[ML Model Deployment]
-    B --> D[Real-time Analytics]
-    C --> E[Scalable Solutions]
-    D --> F[🚀 Production Ready]
-    E --> F
-    
-    style A fill:#1E3A8A,stroke:#3B82F6,stroke-width:2px,color:#fff
-    style F fill:#059669,stroke:#10B981,stroke-width:2px,color:#fff
-```
-
+🎯 **Current Focus (with outcomes)**
+- Accelerating ingestion and transformation to keep nightly SLAs **< 45 minutes** for enterprise BI.
+- Shipping a **feature store** that cuts ML model drift by giving teams fresher signals **2x faster**.
+- Hardening **MLOps** with blue/green rollouts and **p95 latency < 120ms** for customer-facing APIs.
+- Coaching teams on **event-driven architectures** and **data contracts** to reduce rework by **30%**.
+- Piloting **RAG for analytics** to surface trusted metrics with **<1% hallucination** in exec dashboards.
 </div>
 
 ---
@@ -124,8 +128,17 @@ graph TD
 ♟️ Analyzing chess positions
 ☕ Fueled by espresso (it's Milan, after all!)
 ```
+Chess strategy sharpens my design thinking, and tennis keeps my iteration cycles fast.
 
 </div>
+
+---
+
+## 📝 Latest Writing & Talks
+
+- **Data Contracts in Practice** – How schema governance cut rework across 20+ teams. *(Link: coming soon)*
+- **Scaling LLM Inference on GPUs** – Patterns that kept costs predictable during traffic spikes. *(Link: blog / deck)*
+- **Graph Features for Fraud** – Why Neo4j centrality scores boosted detection precision. *(Link: notebook)*
 
 ---
 
@@ -144,6 +157,9 @@ graph TD
 <div align="center">
 
 ### 💬 *"Always up for a challenge—whether it's optimizing data pipelines or finding a killer move in chess!"*
+
+📬 **Availability:** Open for freelance architecture sprints and technical leadership engagements.
+🔗 **Reach out:** [LinkedIn](https://www.linkedin.com) • [Email](mailto:your.email@example.com)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=mojiTMJ&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
