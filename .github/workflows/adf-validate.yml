@@ -1,0 +1,67 @@
+name: ADF – Validate PR
+
+on:
+  pull_request:
+    branches:
+      - dev
+      - qa
+    paths:
+      - 'pipeline/**'
+      - 'dataset/**'
+      - 'linkedService/**'
+      - 'trigger/**'
+      - 'dataflow/**'
+      - 'integrationRuntime/**'
+      - 'factory/**'
+      - 'environments/**'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    name: Validate ADF ARM Template
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Azure Login
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Validate ARM Template (Dev)
+        uses: azure/arm-deploy@v2
+        with:
+          subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          resourceGroupName: ${{ secrets.ADF_RESOURCE_GROUP_DEV }}
+          template: ./factory/ARMTemplateForFactory.json
+          parameters: ./factory/ARMTemplateParametersForFactory.json ./environments/dev-parameters.json
+          deploymentMode: Validate
+
+      - name: Comment PR – Validation Passed
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ **ADF ARM template validation passed** against the Dev environment.'
+            })
+
+      - name: Comment PR – Validation Failed
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ **ADF ARM template validation failed.** Please check the workflow logs.'
+            })

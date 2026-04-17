@@ -1,0 +1,72 @@
+# ============================================================
+# Azure Data Factory – .gitignore
+# ============================================================
+
+# ADF local debug artifacts
+.debug/
+*.user
+*.suo
+.vs/
+
+# Visual Studio / VS Code
+.vscode/
+*.rsuser
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Node / npm (used by some ADF tooling)
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Environment-specific secrets – NEVER commit these
+local.settings.json
+**/secrets*.json
+**/*credentials*.json
+**/*secret*.json
+**/*password*.json
+.env.*
+!.env.example
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Terraform (if used alongside ADF)
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+!*.tfvars.example
+
+# ARM template parameter files with real secrets
+# (use environments/*-parameters.json which contain only references)
+**/*parameters.local.json

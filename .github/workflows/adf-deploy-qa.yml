@@ -1,0 +1,85 @@
+name: ADF – Deploy to QA
+
+on:
+  push:
+    branches:
+      - qa
+    paths:
+      - 'pipeline/**'
+      - 'dataset/**'
+      - 'linkedService/**'
+      - 'trigger/**'
+      - 'dataflow/**'
+      - 'integrationRuntime/**'
+      - 'factory/**'
+      - 'environments/qa-parameters.json'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  RESOURCE_GROUP: ${{ secrets.ADF_RESOURCE_GROUP_QA }}
+  FACTORY_NAME:   ${{ secrets.ADF_FACTORY_NAME_QA }}
+
+jobs:
+  deploy-qa:
+    name: Deploy to QA ADF
+    runs-on: ubuntu-latest
+    environment: qa
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Azure Login
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Validate ARM Template before deploy
+        uses: azure/arm-deploy@v2
+        with:
+          subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          resourceGroupName: ${{ env.RESOURCE_GROUP }}
+          template: ./factory/ARMTemplateForFactory.json
+          parameters: >
+            ./factory/ARMTemplateParametersForFactory.json
+            ./environments/qa-parameters.json
+          deploymentMode: Validate
+
+      - name: Stop ADF Triggers (pre-deploy)
+        uses: azure/powershell@v2
+        with:
+          inlineScript: |
+            ./scripts/pre-post-deploy.ps1 `
+              -ResourceGroupName "$env:RESOURCE_GROUP" `
+              -DataFactoryName   "$env:FACTORY_NAME" `
+              -Action            "stop"
+          azPSVersion: latest
+
+      - name: Deploy ADF ARM Template
+        uses: azure/arm-deploy@v2
+        with:
+          subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          resourceGroupName: ${{ env.RESOURCE_GROUP }}
+          template: ./factory/ARMTemplateForFactory.json
+          parameters: >
+            ./factory/ARMTemplateParametersForFactory.json
+            ./environments/qa-parameters.json
+          deploymentName: adf-qa-${{ github.run_number }}
+
+      - name: Start ADF Triggers (post-deploy)
+        if: always()
+        uses: azure/powershell@v2
+        with:
+          inlineScript: |
+            ./scripts/pre-post-deploy.ps1 `
+              -ResourceGroupName "$env:RESOURCE_GROUP" `
+              -DataFactoryName   "$env:FACTORY_NAME" `
+              -Action            "start"
+          azPSVersion: latest
+
+      - name: Azure Logout
+        if: always()
+        run: az logout
