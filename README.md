@@ -195,7 +195,7 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 ## 📣 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-*populates within 6 hours via github-activity-readme — first build pending*
+1. 🔒 Closed issue [#1](https://github.com/mojiTMJ/mojiTMJ/issues/1) in [mojiTMJ/mojiTMJ](https://github.com/mojiTMJ/mojiTMJ)
 <!--END_SECTION:activity-->
 
 ---
