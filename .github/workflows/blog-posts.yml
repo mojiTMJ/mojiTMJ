@@ -1,0 +1,28 @@
+name: 📝 Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    name: Pull latest posts from feeds
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Add your feeds when you start blogging. Examples:
+          #   dev.to:   https://dev.to/feed/<your-handle>
+          #   medium:   https://medium.com/feed/@<your-handle>
+          #   personal: https://<yourdomain>/feed.xml
+          # Leave a single placeholder feed so the workflow runs successfully
+          # even before you have one set up — it will just produce an empty list.
+          feed_list: "https://dev.to/feed/mojitmj"
+          max_post_count: 5
+          template: "- [$title]($url) <kbd>$date</kbd>"
+          commit_message: "chore: refresh latest blog posts"

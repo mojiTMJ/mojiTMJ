@@ -139,6 +139,16 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 
 ---
 
+## 💡 Quote of the day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
+
+</div>
+
+---
+
 ## 📊 GitHub at a Glance
 
 <div align="center">
@@ -152,6 +162,12 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 
 <br/>
 
+<!-- Wakatime card: install the Wakatime plugin in VS Code / your editor at
+     https://wakatime.com to populate this with real coding-time stats. -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Wakatime stats (set up at wakatime.com to populate)" />
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=mojiTMJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" alt="Trophies" />
 
 <br/>
@@ -159,6 +175,37 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mojiTMJ&theme=tokyo-night&bg_color=02030A&color=22D3EE&line=C084FC&point=EC4899&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
+
+---
+
+## 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📣 Recent GitHub activity
+
+<!--START_SECTION:activity-->
+*populates within 6 hours via github-activity-readme — first build pending*
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+*Will populate from your dev.to / Medium / personal RSS feed once configured.
+Update `feed_list` in `.github/workflows/blog-posts.yml` with your blog's feed URL.*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

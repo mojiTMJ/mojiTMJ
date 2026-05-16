@@ -1,0 +1,23 @@
+name: 📣 Update recent activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"    # every 6h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README with recent GitHub events
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
+          COMMIT_MSG: "chore: refresh recent activity"
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
