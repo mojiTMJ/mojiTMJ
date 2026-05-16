@@ -202,10 +202,7 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 
 ## 📝 Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
-*Will populate from your dev.to / Medium / personal RSS feed once configured.
-Update `feed_list` in `.github/workflows/blog-posts.yml` with your blog's feed URL.*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahap_ogut_6b0a0e5ce891c7/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3) <kbd>Sat May 16 2026 10:23 PM</kbd>- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49) <kbd>Sat May 16 2026 10:21 PM</kbd>- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj) <kbd>Sat May 16 2026 10:21 PM</kbd>- [What goes into utm_medium for Meta Ads — the GA4 regex that decides Paid Social vs Organic Social](https://dev.to/toshihiro_shishido/what-goes-into-utmmedium-for-meta-ads-the-ga4-regex-that-decides-paid-social-vs-organic-social-1h38) <kbd>Sat May 16 2026 10:18 PM</kbd>- [Backup Photos from Google Photos: A 2026 Guide](https://dev.to/poeck/backup-photos-from-google-photos-a-2026-guide-5d9p) <kbd>Sat May 16 2026 10:06 PM</kbd><!-- BLOG-POST-LIST:END -->
 
 ---
 
