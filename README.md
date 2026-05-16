@@ -1,206 +1,217 @@
-<div align="center">
-  
-# 🚀 Welcome to Moji's Data & AI Universe! 
-### *Where Data Meets Intelligence* 🧠✨
+<!-- =================================================================== -->
+<!--                       moji.dev — profile README                       -->
+<!-- =================================================================== -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E3A8A&vCenter=true&width=600&lines=Data+%26+AI+Architect;Freelance+Professional;Milan%2C+Italy+%F0%9F%87%AE%F0%9F%87%B9;Always+Up+for+a+Challenge!" alt="Typing SVG" />
+<a href="https://mojitmj.github.io/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=moji.dev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Integration%20Architect%20·%20Data%20Engineer%20·%20Milano%20🇮🇹&descSize=18&descAlignY=62" />
+</a>
+
+<div align="center">
+
+<!-- Animated typing tagline -->
+<a href="https://mojitmj.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=From+demo+to+production.;AI+that+runs%2C+not+just+renders.;Production+LLM+%C2%B7+Agents+%C2%B7+Edge+AI;Azure+%C2%B7+Databricks+%C2%B7+LangChain;Thoughtful+before+fancy.;Ciao+%F0%9F%91%8B+%C2%B7+Freelance+a+Milano+%F0%9F%87%AE%F0%9F%87%B9" alt="Tagline" />
+</a>
+
+<!-- Status pills -->
+<p>
+  <img src="https://img.shields.io/badge/open_for-freelance-2DD4BF?style=for-the-badge&logo=verified&logoColor=white&labelColor=02030A" />
+  <img src="https://img.shields.io/badge/based_in-Milano-C084FC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=02030A" />
+  <img src="https://img.shields.io/badge/languages-IT_·_EN_·_FA-EC4899?style=for-the-badge&logoColor=white&labelColor=02030A" />
+  <a href="https://www.linkedin.com/in/mojitmj/"><img src="https://img.shields.io/badge/LinkedIn-mojitmj-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02030A" /></a>
+  <a href="https://t.me/mojitmj"><img src="https://img.shields.io/badge/Telegram-chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=02030A" /></a>
+</p>
+
+<a href="https://mojitmj.github.io/"><img src="https://img.shields.io/badge/▸_visit_my_portfolio-mojitmj.github.io-22D3EE?style=for-the-badge&labelColor=02030A&color=C084FC" /></a>
 
 </div>
 
 ---
 
-<div align="center">
-  
-## 🎯 About Me
+## 👋 About
 
-```python
-class DataArchitect:
-    def __init__(self):
-        self.name = "Moji"
-        self.role = "Data & AI Architect"
-        self.location = "Milan, Italy 🇮🇹"
-        self.status = "Freelance Professional"
-        self.specialization = "Data & AI Engineering"
-        self.motto = "Turning Data into Intelligence"
-        
-    def get_current_focus(self):
-        return [
-            "Building scalable data pipelines",
-            "Designing AI architectures",
-            "Optimizing ML workflows",
-            "Chess strategy optimization 🏁"
-        ]
+I'm **Jalalledin "Moji" Taavoni** — freelance **AI Integration Architect** and **Data Engineer** based in Milano 🇮🇹.
+
+I take AI from notebook demos to systems that **run**: reliably, observably, at the right cost, sometimes on the edge. The hard part isn't the model — it's the **integration**: stable orchestration, eval gates that fire before users notice, guardrails that hold, and inference that can run on a laptop when the cloud isn't an option.
+
+```ts
+const moji = {
+  role:       ["AI Integration Architect", "Data Engineer", "DataOps Consultant"],
+  stack:      ["Azure", "Databricks", "LangChain", "PromptFlow", "Foundry Local",
+               "SQL Server", "Synapse", "Fabric", "dbt", "Neo4j"],
+  philosophy: "Thoughtful before fancy.",
+  education:  "Computer Science + Digital Humanities · Università di Pisa",
+  currently:  "Building production LLM systems & agents on Azure",
+  open_to:    "Freelance projects · IT and Remote EU",
+  reach:      ["mojitmj.github.io", "linkedin.com/in/mojitmj", "t.me/mojitmj"],
+};
 ```
 
-**Core strengths:**
-- Event-driven lakehouse governance with data contracts and quality gates
-- MLOps on Azure, AWS, and hybrid GPU clusters with FinOps discipline
-- Graph analytics with Neo4j and feature engineering for fraud/recsys
-- Observability, SLOs, and cost-aware architecture reviews
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**☁️ Cloud · Platform · DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform&theme=dark" />
+
+**🧠 AI · ML · LLMs**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/PromptFlow-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" />
+
+**💾 Data Engineering · DataOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Synapse-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**💻 Languages · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,r,bash,powershell,git,github,vscode,linux,nodejs,react&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 🚀 Featured Impact
-- **Event-driven lakehouse** – Cut batch ETL runtime by **35%** while serving **5B+ monthly events** for downstream analytics.
-- **Multi-cloud LLM platform** – Deployed resilient inference across **Azure + AWS** with **99.9% uptime** and autoscaling GPU clusters.
-- **Real-time fraud signals** – Built streaming graph features on **Neo4j** that reduced false positives by **22%**.
-- **LLMOps control plane** – Established evals + rollout guardrails to keep latency steady during **10x** traffic spikes.
+## ✨ Featured Projects
 
 <div align="center">
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ☁️ Cloud Platforms
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### ⚡ <a href="https://github.com/mojiTMJ/sqlsnapshot">sqlsnapshot</a>
+PowerShell tool that **x-rays a SQL Server / Azure SQL instance in one command** — full DDL, DMVs, backup history, security audit, design-quality checks, per-table data samples. Cross-platform schedulers (Task Scheduler · SQL Agent · SSIS · cron · systemd).
 
-### 🗄️ Databases & Data Tech
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+`PowerShell · SQL Server · Azure SQL · Synapse · Fabric`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ <a href="https://github.com/mojiTMJ/adfDDDEEVV">ADF CI/CD templates</a>
+GitHub Actions workflow for **Azure Data Factory** — JSON schema validation, hardcoded-secret scanning, Key Vault enforcement, trigger-state gates on every PR. Drop-in for any ADF estate.
+
+`GitHub Actions · Azure Data Factory · CI/CD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 <a href="https://github.com/mojiTMJ/italianAcademies1525-1700">italianAcademies 1525–1700</a>
+Digital-humanities side project: **175 years of Italian academies as a property graph in Neo4j**, visualized in the browser with popoto.js. Where data engineering meets the archive.
+
+`Neo4j · Graph DBs · Digital Humanities`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 <a href="https://mojitmj.github.io/">mojitmj.github.io</a>
+**Live portfolio**: dual-positioning landing page (AI / DataOps / DE / BI / DA), animated streaming-source boot, EN/IT toggle with Italian-flag theme, live chat overlay, full visitor metadata pipeline.
+
+`Vanilla JS · Web3Forms · GitHub Pages`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mojiTMJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=1E3A8A&title_color=1E3A8A&icon_color=3B82F6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojiTMJ&layout=compact&theme=tokyonight&border_color=1E3A8A&title_color=1E3A8A"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mojiTMJ&theme=tokyonight&border=1E3A8A&stroke=1E3A8A&ring=3B82F6&fire=F59E0B&currStreakLabel=1E3A8A)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-<div align="center">
-🎯 **Current Focus (with outcomes)**
-- Accelerating ingestion and transformation to keep nightly SLAs **< 45 minutes** for enterprise BI.
-- Shipping a **feature store** that cuts ML model drift by giving teams fresher signals **2x faster**.
-- Hardening **MLOps** with blue/green rollouts and **p95 latency < 120ms** for customer-facing APIs.
-- Coaching teams on **event-driven architectures** and **data contracts** to reduce rework by **30%**.
-- Piloting **RAG for analytics** to surface trusted metrics with **<1% hallucination** in exec dashboards.
-</div>
-
----
-
-## 🏆 Achievement Unlocked
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-| 🎾 Tennis Enthusiast | ♟️ Chess Strategist | 🔧 Pipeline Optimizer | 🌍 Multi-Cloud Expert |
-|:---:|:---:|:---:|:---:|
-| *Serving aces on and off the court* | *Always thinking 5 moves ahead* | *Making data flow like poetry* | *Architecting across all clouds* |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mojiTMJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&icon_color=C084FC&text_color=E2E8F0" alt="Moji's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=10&hide=html,css" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mojiTMJ&theme=tokyonight&hide_border=true&background=02030A&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C084FC&dates=94A3B8" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mojiTMJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" alt="Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mojiTMJ&theme=tokyo-night&bg_color=02030A&color=22D3EE&line=C084FC&point=EC4899&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🎮 Fun Zone
+## 🎯 Engage me for
 
-<div align="center">
+- 🤖 **Production AI** — taking LLM demos / RAG / agent prototypes to systems that survive Tuesday morning
+- 🛡️ **AI evaluation & guardrails** — golden sets, drift detection, regression gates, jailbreak hardening
+- ⚡ **Edge AI** — Azure AI Foundry Local · ONNX · on-device LLMs for latency- or privacy-bound workloads
+- 🏗️ **DataOps / Data platform** — lakehouse design on ADF + Databricks, CI/CD, governance, FinOps
+- 🔧 **SQL Server modernization** — legacy → Azure SQL / MI / Fabric with replayable migrations
+- 📊 **BI / Power BI rescues** — slow reports, wrong numbers, ungoverned sprawl
 
-### 🎲 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=1E3A8A)
+---
 
-### 🏃‍♂️ Current Status
+## 💬 Currently
+
+```yaml
+shipping:    production AI integrations on Azure for SMB clients in IT/EU
+building:    sqlsnapshot v2 with Azure SQL DB + Fabric warehouse coverage
+exploring:   on-device LLMs (Phi-3, Llama-3) via Foundry Local + ONNX
+reading:     "Designing Data-Intensive Applications" (annual re-read)
+learning:    proper formal verification for AI agents
+sipping:     a long espresso ☕
 ```
-🔥 Building the future of data architecture
-🎾 Perfecting my backhand
-♟️ Analyzing chess positions
-☕ Fueled by espresso (it's Milan, after all!)
-```
-Chess strategy sharpens my design thinking, and tennis keeps my iteration cycles fast.
-
-</div>
 
 ---
 
-## 📝 Latest Writing & Talks
-<div align="center">
-
-```mermaid
-graph TD
-    A[🧠 AI Architecture] --> B[Data Pipeline Optimization]
-    A --> C[ML Model Deployment]
-    B --> D[Real-time Analytics]
-    C --> E[Scalable Solutions]
-    D --> F[🚀 Production Ready]
-    E --> F
-    
-    style A fill:#1E3A8A,stroke:#3B82F6,stroke-width:2px,color:#fff
-    style F fill:#059669,stroke:#10B981,stroke-width:2px,color:#fff
-```
-
-**Data Contracts in Practice** – How schema governance cut rework across 20+ teams. *(Link: coming soon)*
-**Scaling LLM Inference on GPUs** – Patterns that kept costs predictable during traffic spikes. *(Link: blog / deck)*
-**Graph Features for Fraud** – Why Neo4j centrality scores boosted detection precision. *(Link: notebook)*
-
----
-
-## 📈 Contribution Graph
+## 🤝 Connect
 
 <div align="center">
 
-![Moji's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mojiTMJ&theme=tokyo-night&bg_color=0D1117&color=1E3A8A&line=3B82F6&point=F59E0B&area=true&hide_border=true)
+<a href="https://mojitmj.github.io/"><img src="https://img.shields.io/badge/Portfolio-mojitmj.github.io-22D3EE?style=for-the-badge&labelColor=02030A" /></a>
+<a href="https://www.linkedin.com/in/mojitmj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02030A" /></a>
+<a href="https://t.me/mojitmj"><img src="https://img.shields.io/badge/Telegram-Chat_with_me-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=02030A" /></a>
+<a href="mailto:DsBiConsultant@Gmail.com"><img src="https://img.shields.io/badge/Email-DsBiConsultant-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=02030A" /></a>
 
-</div>
+<br/><br/>
 
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-### 💬 *"Always up for a challenge—whether it's optimizing data pipelines or finding a killer move in chess!"*
-
-📬 **Availability:** Open for freelance architecture sprints and technical leadership engagements.
-🔗 **Reach out:** [LinkedIn](https://www.linkedin.com) • [Email](mailto:your.email@example.com)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=mojiTMJ&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=mojiTMJ&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mojiTMJ?label=Followers&style=for-the-badge&color=C084FC&labelColor=02030A" alt="Followers" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>🚀 Built with passion in Milan | 🎯 Crafted for the GitHub community</sub>
+
+> *"Pipelines should be like good plumbing — invisible, reliable, and someone else's problem when they break. I'm the someone else."*
+
+<br/>
+
+<sub>🟢🤍🔴 Fatto con espresso ☕ &amp; 🍕 a <b>Milano</b> · Ciao mondo!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=80&section=footer&animation=twinkling" />
+
 </div>
-
-<!--
-## Hi there 👋
-**mojiTMJ/mojiTMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
