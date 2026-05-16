@@ -162,9 +162,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 
 <br/>
 
-<!-- Wakatime card: install the Wakatime plugin in VS Code / your editor at
-     https://wakatime.com to populate this with real coding-time stats. -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Wakatime stats (set up at wakatime.com to populate)" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Wakatime languages" />
+
+</div>
+
+### ⏱️ This week's coding rhythm (Wakatime)
+
+<!--START_SECTION:waka-->
+*populates daily at 05:00 UTC via athul/waka-readme*
+<!--END_SECTION:waka-->
+
+<div align="center">
 
 <br/>
 

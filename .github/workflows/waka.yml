@@ -1,0 +1,29 @@
+name: ⏱️ Update Wakatime stats
+
+on:
+  schedule:
+    - cron: "0 5 * * *"     # daily at 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Pull Wakatime stats and inject into README
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api/v1
+          SHOW_TITLE: True
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          STOP_AT_OTHER: True
+          IGNORED_LANGUAGES: "Other"
+          SHOW_TIME: True
+          SHOW_TOTAL: True
+          COMMIT_MESSAGE: "chore: refresh wakatime stats"
