@@ -169,7 +169,21 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 ### ⏱️ This week's coding rhythm (Wakatime)
 
 <!--START_SECTION:waka-->
-*populates daily at 05:00 UTC via athul/waka-readme*
+
+```txt
+From: 12 May 2026 - To: 19 May 2026
+
+Total Time: 42 hrs 25 mins
+
+JSON         14 hrs 3 mins         ███████▓░░░░░░░░░░░░░░░░░   30.40 %
+Markdown     7 hrs 36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+PowerShell   6 hrs 43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Text         6 hrs 33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+SQL          2 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+YAML         1 hr 9 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+XML          1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
