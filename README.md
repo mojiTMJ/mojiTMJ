@@ -3,14 +3,14 @@
 <!-- =================================================================== -->
 
 <a href="https://mojitmj.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=moji.dev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Integration%20Architect%20·%20Data%20Engineer%20·%20Milano%20🇮🇹&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=moji.dev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20Azure%20Data%20Platform%20·%20AI%20in%20production%20·%20Milano%20🇮🇹&descSize=18&descAlignY=62" />
 </a>
 
 <div align="center">
 
 <!-- Animated typing tagline -->
 <a href="https://mojitmj.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=From+demo+to+production.;AI+that+runs%2C+not+just+renders.;Production+LLM+%C2%B7+Agents+%C2%B7+Edge+AI;Azure+%C2%B7+Databricks+%C2%B7+LangChain;Thoughtful+before+fancy.;Ciao+%F0%9F%91%8B+%C2%B7+Freelance+a+Milano+%F0%9F%87%AE%F0%9F%87%B9" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+engineering+on+Azure.;ADF+%C2%B7+Synapse+%C2%B7+Fabric+%C2%B7+SQL+Server;Pipelines+that+run+at+2+a.m.;Star+schemas+%C2%B7+SCD2+%C2%B7+CI%2FCD;...then+AI+that+runs+in+production.;Thoughtful+before+fancy.;Ciao+%F0%9F%91%8B+%C2%B7+Milano+%F0%9F%87%AE%F0%9F%87%B9" alt="Tagline" />
 </a>
 
 <!-- Status pills -->
@@ -30,19 +30,19 @@
 
 ## 👋 About
 
-I'm **Jalalledin "Moji" Taavoni** — freelance **AI Integration Architect** and **Data Engineer** based in Milano 🇮🇹.
+I'm **Jalalledin "Moji" Taavoni** — a **Data Engineer** (Azure data platform · SQL Server · BI) who also takes **AI to production**, based in Milano 🇮🇹.
 
-I take AI from notebook demos to systems that **run**: reliably, observably, at the right cost, sometimes on the edge. The hard part isn't the model — it's the **integration**: stable orchestration, eval gates that fire before users notice, guardrails that hold, and inference that can run on a laptop when the cloud isn't an option.
+I build the unglamorous machinery that makes data trustworthy: **metadata-driven ETL**, **star-schema datamarts**, incremental loads that survive 2 a.m., and the CI/CD + governance around them. Then I bring **AI to production the same way** — from notebook demo to a system that runs reliably, observably, and at the right cost.
 
 ```ts
 const moji = {
-  role:       ["AI Integration Architect", "Data Engineer", "DataOps Consultant"],
-  stack:      ["Azure", "Databricks", "LangChain", "PromptFlow", "Foundry Local",
-               "SQL Server", "Synapse", "Fabric", "dbt", "Neo4j"],
+  role:       ["Data Engineer", "DataOps / Data Platform", "AI Integration (production)"],
+  stack:      ["SQL Server", "Azure Data Factory", "Synapse", "Fabric", "SSIS", "SSAS",
+               "Power BI", "Databricks", "dbt", "Neo4j", "Python", "Azure", "LangChain"],
   philosophy: "Thoughtful before fancy.",
   education:  "Computer Science + Digital Humanities · Università di Pisa",
-  currently:  "Building production LLM systems & agents on Azure",
-  open_to:    "Freelance projects · IT and Remote EU",
+  currently:  "Metadata-driven datamarts on Azure — and taking AI to production",
+  open_to:    "Freelance & contract · IT and Remote EU",
   reach:      ["mojitmj.github.io", "linkedin.com/in/mojitmj", "t.me/mojitmj"],
 };
 ```
@@ -56,18 +56,6 @@ const moji = {
 **☁️ Cloud · Platform · DevOps**
 <br/>
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform&theme=dark" />
-
-**🧠 AI · ML · LLMs**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/PromptFlow-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" />
 
 **💾 Data Engineering · DataOps**
 <br/>
@@ -83,6 +71,18 @@ const moji = {
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**🧠 AI · ML · LLMs** <sub>(the growth edge)</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/PromptFlow-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" />
 
 **💻 Languages · Tools**
 <br/>
@@ -108,10 +108,10 @@ PowerShell tool that **x-rays a SQL Server / Azure SQL instance in one command**
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ <a href="https://github.com/mojiTMJ/adfDDDEEVV">ADF CI/CD templates</a>
-GitHub Actions workflow for **Azure Data Factory** — JSON schema validation, hardcoded-secret scanning, Key Vault enforcement, trigger-state gates on every PR. Drop-in for any ADF estate.
+### 🏗️ <a href="https://github.com/mojiTMJ/azure-adf-dynamic-ingestion">azure-adf-dynamic-ingestion</a>
+Metadata-driven **Azure Data Factory** ingestion template — managed-identity auth, multi-env CI/CD (dev/staging/prod), and PR validation (JSON schema + hardcoded-secret scanning). Drop-in for any ADF estate.
 
-`GitHub Actions · Azure Data Factory · CI/CD`
+`Azure Data Factory · Managed Identity · CI/CD`
 
 </td>
 </tr>
@@ -230,23 +230,22 @@ Python       9 mins                ▓░░░░░░░░░░░░░░
 
 ## 🎯 Engage me for
 
-- 🤖 **Production AI** — taking LLM demos / RAG / agent prototypes to systems that survive Tuesday morning
-- 🛡️ **AI evaluation & guardrails** — golden sets, drift detection, regression gates, jailbreak hardening
-- ⚡ **Edge AI** — Azure AI Foundry Local · ONNX · on-device LLMs for latency- or privacy-bound workloads
-- 🏗️ **DataOps / Data platform** — lakehouse design on ADF + Databricks, CI/CD, governance, FinOps
+- 🏗️ **Data platform / DataOps** — metadata-driven ETL, star-schema datamarts, lakehouse on ADF + Databricks, CI/CD, governance, FinOps
 - 🔧 **SQL Server modernization** — legacy → Azure SQL / MI / Fabric with replayable migrations
 - 📊 **BI / Power BI rescues** — slow reports, wrong numbers, ungoverned sprawl
+- 🤖 **Production AI** — taking LLM / RAG / agent prototypes to systems that survive Tuesday morning
+- 🛡️ **AI evaluation & guardrails** — golden sets, drift detection, regression gates, jailbreak hardening
+- ⚡ **Edge AI** — Azure AI Foundry Local · ONNX · on-device LLMs for latency- or privacy-bound workloads
 
 ---
 
 ## 💬 Currently
 
 ```yaml
-shipping:    production AI integrations on Azure for SMB clients in IT/EU
-building:    sqlsnapshot v2 with Azure SQL DB + Fabric warehouse coverage
-exploring:   on-device LLMs (Phi-3, Llama-3) via Foundry Local + ONNX
+shipping:    metadata-driven datamarts & ADF pipelines on Azure for IT/EU clients
+building:    sqlsnapshot v2 — Azure SQL DB + Fabric warehouse coverage
+exploring:   production AI on Azure + on-device LLMs (Phi-3, Llama-3) via Foundry Local
 reading:     "Designing Data-Intensive Applications" (annual re-read)
-learning:    proper formal verification for AI agents
 sipping:     a long espresso ☕
 ```
 
