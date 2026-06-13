@@ -171,17 +171,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-Total Time: 42 hrs 11 mins
+Total Time: 34 hrs 18 mins
 
-Markdown     15 hrs 23 mins        ████████▓░░░░░░░░░░░░░░░░   34.17 %
-JavaScript   7 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Bash         4 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-C#           3 hrs 46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Python       2 hrs 56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-JSON         2 hrs 18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-PowerShell   1 hr 58 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Markdown     14 hrs 21 mins        █████████▓░░░░░░░░░░░░░░░   38.68 %
+JavaScript   7 hrs 28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+C#           3 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Python       2 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+PowerShell   1 hr 58 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+CSS          1 hr 40 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JSON         1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
