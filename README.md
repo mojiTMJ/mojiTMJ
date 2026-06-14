@@ -224,11 +224,10 @@ JSON         1 hr                  ▓░░░░░░░░░░░░░░
 
 ## 📝 Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->- [PostgreSQL 2200F Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200f-error-causes-and-solutions-complete-guide-3fhe) <kbd>Sat Jun 13 2026 2:03 PM</kbd>- [Flowork Agent: A Self-Hosted AI Agent OS With Memory, Security, and Offline Capability](https://dev.to/alya_mahalini_f05d9953cfa/flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability-1mk3) <kbd>Sat Jun 13 2026 2:01 PM</kbd>- [Demo: https://codei-sync-t72r.onrender.com/
+<!-- BLOG-POST-LIST:START -->- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn) <kbd>Sun Jun 14 2026 4:00 AM</kbd>- [Two tiny Claude Code skills that fixed my two biggest agent problems](https://dev.to/dualform/two-tiny-claude-code-skills-that-fixed-my-two-biggest-agent-problems-13fh) <kbd>Sun Jun 14 2026 3:57 AM</kbd>- [Please I want to become a strong Software Engineer 
 
-I built a real-time collaborative coding platform and would love some honest feedback.
-
-The goal was to remove the friction that often comes with pair programming and collaborative coding sessions. Instead of in](https://dev.to/hamza_abbasi_041a62769f6b/demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-3n50) <kbd>Sat Jun 13 2026 2:00 PM</kbd>- [I built a free, open-source AI calorie tracker because the others got greedy](https://dev.to/apoorvdarshan/i-built-a-free-open-source-ai-calorie-tracker-because-the-others-got-greedy-npg) <kbd>Sat Jun 13 2026 2:00 PM</kbd>- [I Tried Shorebird and Finally Understood Why Flutter Developers Keep Talking About It](https://dev.to/joyston_ccd43d53e268ec635/i-tried-shorebird-and-finally-understood-why-flutter-developers-keep-talking-about-it-301n) <kbd>Sat Jun 13 2026 1:54 PM</kbd><!-- BLOG-POST-LIST:END -->
+How can I do pls.
+I need a Roadmap](https://dev.to/callmeyop/please-i-want-to-become-a-strong-software-engineer-how-can-i-do-plsi-need-a-roadmap-21k3) <kbd>Sun Jun 14 2026 3:53 AM</kbd>- [Building an Interactive &#39;Festa Junina&#39; with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p) <kbd>Sun Jun 14 2026 3:52 AM</kbd>- [Agent Series &lpar;20&rpar;: Harness in Production — From Single File to Reusable Package](https://dev.to/wonderlab/agent-series-20-harness-in-production-from-single-file-to-reusable-package-2chd) <kbd>Sun Jun 14 2026 3:50 AM</kbd><!-- BLOG-POST-LIST:END -->
 
 ---
 
