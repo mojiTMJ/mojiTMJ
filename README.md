@@ -224,10 +224,7 @@ CSS          1 hr 40 mins          █░░░░░░░░░░░░░░
 
 ## 📝 Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn) <kbd>Sun Jun 14 2026 4:00 AM</kbd>- [Two tiny Claude Code skills that fixed my two biggest agent problems](https://dev.to/dualform/two-tiny-claude-code-skills-that-fixed-my-two-biggest-agent-problems-13fh) <kbd>Sun Jun 14 2026 3:57 AM</kbd>- [Please I want to become a strong Software Engineer 
-
-How can I do pls.
-I need a Roadmap](https://dev.to/callmeyop/please-i-want-to-become-a-strong-software-engineer-how-can-i-do-plsi-need-a-roadmap-21k3) <kbd>Sun Jun 14 2026 3:53 AM</kbd>- [Building an Interactive &#39;Festa Junina&#39; with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p) <kbd>Sun Jun 14 2026 3:52 AM</kbd>- [Agent Series &lpar;20&rpar;: Harness in Production — From Single File to Reusable Package](https://dev.to/wonderlab/agent-series-20-harness-in-production-from-single-file-to-reusable-package-2chd) <kbd>Sun Jun 14 2026 3:50 AM</kbd><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [65% of Enterprise AI Failures Trace Back to Context Drift. The Fix Is Not a Bigger Window.](https://dev.to/kavinkimcreator/65-of-enterprise-ai-failures-trace-back-to-context-drift-the-fix-is-not-a-bigger-window-4bmn) <kbd>Sun Jun 14 2026 2:00 PM</kbd>- [What embeddings are, explained by building one](https://dev.to/iwtlp/what-embeddings-are-explained-by-building-one-4j5m) <kbd>Sun Jun 14 2026 2:00 PM</kbd>- [Netra-security](https://dev.to/narasimhamurthy4616/netra-security-3mo9) <kbd>Sun Jun 14 2026 1:49 PM</kbd>- [Sending Telegram Bot Conversions to Meta? Don&#39;t Reach for business_messaging](https://dev.to/lamas51/sending-telegram-bot-conversions-to-meta-dont-reach-for-businessmessaging-1ecj) <kbd>Sun Jun 14 2026 1:45 PM</kbd>- [How I built a website vulnerability scanner for UAE PDPL compliance as a solo founder](https://dev.to/akilesh_864dae62398fb356a/how-i-built-a-website-vulnerability-scanner-for-uae-pdpl-compliance-as-a-solo-founder-ki7) <kbd>Sun Jun 14 2026 1:34 PM</kbd><!-- BLOG-POST-LIST:END -->
 
 ---
 
