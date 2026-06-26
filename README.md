@@ -171,17 +171,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2026 - To: 23 June 2026
+From: 17 June 2026 - To: 24 June 2026
 
-Total Time: 31 hrs 11 mins
+Total Time: 25 hrs 14 mins
 
-Markdown     12 hrs 3 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
-SQL          6 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
-Batchfile    5 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-PowerShell   3 hrs 17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Python       1 hr 44 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-ASP.NET      1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-CSV          30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Markdown     8 hrs 1 min           ███████░░░░░░░░░░░░░░░░░░   28.39 %
+Batchfile    5 hrs 18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+SQL          4 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+PowerShell   3 hrs 17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Python       1 hr 42 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+ASP.NET      1 hr 23 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+CSV          19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
