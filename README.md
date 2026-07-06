@@ -171,11 +171,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2026 - To: 03 July 2026
+From: 28 June 2026 - To: 05 July 2026
 
-Total Time: 0 secs
+Total Time: 22 hrs 57 mins
 
-No activity tracked
+Markdown     13 hrs 37 mins        ██████████████▒░░░░░░░░░░   56.73 %
+PowerShell   5 hrs 55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+SQL          1 hr 42 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+ASP.NET      40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+CSV          6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
