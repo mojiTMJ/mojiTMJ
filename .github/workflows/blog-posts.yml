@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Pull latest posts from feeds
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4, pinned 2026-08-25
+      - uses: gautamkrishnar/blog-post-workflow@28b22c9f8c9f4fa4b1c3e210bd5c3aaa00dff596 # was @master, pinned 2026-08-25
         with:
           # Replace with your actual blog feed when you have one. Examples:
           #   dev.to:   https://dev.to/feed/<your-handle>

@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Pull Wakatime stats and inject into README
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # was @master, pinned 2026-08-25
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
