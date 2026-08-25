@@ -213,7 +213,7 @@ Markdown   4 mins                ██░░░░░░░░░░░░░�
 ## 📣 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mojiTMJ/mojiTMJ/issues/1) in [mojiTMJ/mojiTMJ](https://github.com/mojiTMJ/mojiTMJ)
+1. 🎉 Merged PR [#5](https://github.com/mojiTMJ/mojiTMJ/pull/5) in [mojiTMJ/mojiTMJ](https://github.com/mojiTMJ/mojiTMJ)
 <!--END_SECTION:activity-->
 
 ---
