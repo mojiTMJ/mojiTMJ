@@ -171,17 +171,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 24 August 2026 - To: 31 August 2026
 
-Total Time: 10 hrs 55 mins
+Total Time: 26 hrs 54 mins
 
-Markdown     7 hrs 40 mins         █████████████░░░░░░░░░░░░   51.91 %
-Python       2 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-PowerShell   30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-TOML         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-YAML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Makefile     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Terraform    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Markdown     12 hrs 18 mins        ███████████░░░░░░░░░░░░░░   43.67 %
+Python       9 hrs 23 mins         ████████▒░░░░░░░░░░░░░░░░   33.33 %
+YAML         2 hrs 46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Text         43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+PowerShell   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Docker       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+TOML         21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
