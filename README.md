@@ -171,17 +171,17 @@ Digital-humanities side project: **175 years of Italian academies as a property 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 11 September 2026
+From: 05 September 2026 - To: 12 September 2026
 
-Total Time: 33 hrs 36 mins
+Total Time: 25 hrs 5 mins
 
-Python       19 hrs 35 mins        █████████████▒░░░░░░░░░░░   53.91 %
-Markdown     6 hrs 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-HTML         2 hrs 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Bash         2 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-YAML         1 hr 46 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Text         37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Git Config   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       13 hrs 56 mins        ████████████▓░░░░░░░░░░░░   50.13 %
+Markdown     6 hrs 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+Bash         2 hrs 11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+YAML         1 hr 46 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Text         32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Git Config   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Mermaid      7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
