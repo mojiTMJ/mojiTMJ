@@ -1,276 +1,82 @@
-<!-- =================================================================== -->
-<!--                       moji.dev — profile README                       -->
-<!-- =================================================================== -->
+# Jalalledin "Moji" Taavoni
 
-<a href="https://mojitmj.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=moji.dev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20Azure%20Data%20Platform%20·%20AI%20in%20production%20·%20Milano%20🇮🇹&descSize=18&descAlignY=62" />
-</a>
+### Data & AI Platform Architect · Azure · AWS · Google Cloud · Lakehouse · MLOps · GenAI · Milan, Italy
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mojitmj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojitmj/)
+[![Email](https://img.shields.io/badge/Email-DsBiConsultant%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:DsBiConsultant@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mojitmj.github.io-22D3EE?style=flat-square)](https://mojitmj.github.io/)
+![Available](https://img.shields.io/badge/available-from_November_2026-2EA44F?style=flat-square)
 
-<!-- Animated typing tagline -->
-<a href="https://mojitmj.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+engineering+on+Azure.;ADF+%C2%B7+Synapse+%C2%B7+Fabric+%C2%B7+SQL+Server;Pipelines+that+run+at+2+a.m.;Star+schemas+%C2%B7+SCD2+%C2%B7+CI%2FCD;...then+AI+that+runs+in+production.;Thoughtful+before+fancy.;Ciao+%F0%9F%91%8B+%C2%B7+Milano+%F0%9F%87%AE%F0%9F%87%B9" alt="Tagline" />
-</a>
+I design and build the platforms that turn raw operational data into something a business can trust, and then put AI on top of it in production.
 
-<!-- Status pills -->
-<p>
-  <img src="https://img.shields.io/badge/open_for-freelance-2DD4BF?style=for-the-badge&logo=verified&logoColor=white&labelColor=02030A" />
-  <img src="https://img.shields.io/badge/based_in-Milano-C084FC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=02030A" />
-  <img src="https://img.shields.io/badge/languages-IT_·_EN_·_FA-EC4899?style=for-the-badge&logoColor=white&labelColor=02030A" />
-  <a href="https://www.linkedin.com/in/mojitmj/"><img src="https://img.shields.io/badge/LinkedIn-mojitmj-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02030A" /></a>
-  <a href="https://t.me/mojitmj"><img src="https://img.shields.io/badge/Telegram-chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=02030A" /></a>
-</p>
-
-<a href="https://mojitmj.github.io/"><img src="https://img.shields.io/badge/▸_visit_my_portfolio-mojitmj.github.io-22D3EE?style=for-the-badge&labelColor=02030A&color=C084FC" /></a>
-
-</div>
+- **10+ years in IT, 8+ in data and AI**: SQL Server and Azure data platforms, metadata-driven ingestion, star-schema datamarts, CI/CD for data, and MLOps on Google Cloud Vertex AI.
+- **Freelance consultant (Partita IVA)** based in **Milan**, working with Italian and EU clients in services, manufacturing, engineering, utilities and financial services.
+- I care about the boring parts: incremental loads that survive the 2 a.m. run, gates that stop bad data and weak models before they ship, and observability that tells you *which step* failed.
+- **Available for new engagements from November 2026** (contract or freelance, Milan / remote EU).
 
 ---
 
-## 👋 About
+## Pinned projects
 
-I'm **Jalalledin "Moji" Taavoni** — a **Data Engineer** (Azure data platform · SQL Server · BI) who also takes **AI to production**, based in Milano 🇮🇹.
-
-I build the unglamorous machinery that makes data trustworthy: **metadata-driven ETL**, **star-schema datamarts**, incremental loads that survive 2 a.m., and the CI/CD + governance around them. Then I bring **AI to production the same way** — from notebook demo to a system that runs reliably, observably, and at the right cost.
-
-```ts
-const moji = {
-  role:       ["Data Engineer", "DataOps / Data Platform", "AI Integration (production)"],
-  stack:      ["SQL Server", "Azure Data Factory", "Synapse", "Fabric", "SSIS", "SSAS",
-               "Power BI", "Databricks", "dbt", "Neo4j", "Python", "Azure", "LangChain"],
-  philosophy: "Thoughtful before fancy.",
-  education:  "Computer Science + Digital Humanities · Università di Pisa",
-  currently:  "Metadata-driven datamarts on Azure — and taking AI to production",
-  open_to:    "Freelance & contract · IT and Remote EU",
-  reach:      ["mojitmj.github.io", "linkedin.com/in/mojitmj", "t.me/mojitmj"],
-};
-```
+| Project | What it shows |
+|---|---|
+| [**sqlsnapshot**](https://github.com/mojiTMJ/sqlsnapshot) | One-command SQL Server / Azure SQL inventory and health snapshot: DDL, DMVs, security audit, Query Store, data sampling. Five scheduler patterns, run diffing, a signed manifest and a browser dashboard. PowerShell, Pester, GitHub Actions. |
+| [**azure-adf-dynamic-ingestion**](https://github.com/mojiTMJ/azure-adf-dynamic-ingestion) | Azure Data Factory ingestion template with managed-identity auth, Key Vault, dev/staging/prod ARM deployments and PR validation (JSON lint plus a hardcoded-secret scan). |
+| [**sql-etl-framework**](https://github.com/mojiTMJ/sql-etl-framework) | Metadata-driven incremental ETL in pure T-SQL: watermarks, SCD Type 2, surrogate keys and restartable batch logging. Read it in 20 minutes. |
 
 ---
 
-## 🛠️ Stack
+## Tech I work with
 
-<div align="center">
+**Data platform**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D0?style=flat-square&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0089D0?style=flat-square&logo=microsoftazure&logoColor=white)
+![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-**☁️ Cloud · Platform · DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform&theme=dark" />
+**AI and MLOps**
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow_Pipelines-326CE5?style=flat-square&logo=kubeflow&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 
-**💾 Data Engineering · DataOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Synapse-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-
-**🧠 AI · ML · LLMs** <sub>(the growth edge)</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/PromptFlow-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" />
-
-**💻 Languages · Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,r,bash,powershell,git,github,vscode,linux,nodejs,react&theme=dark" />
-
-</div>
+**Engineering and DevOps**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## ✨ Featured Projects
+## Certifications
 
-<div align="center">
+**24 active Microsoft certifications**, including **AZ-305** (Azure Solutions Architect Expert), **AZ-400** (DevOps Engineer Expert), **AI-300** and **DP-750**. Also **Cisco CCNA** and **LPIC**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Education
 
-### ⚡ <a href="https://github.com/mojiTMJ/sqlsnapshot">sqlsnapshot</a>
-PowerShell tool that **x-rays a SQL Server / Azure SQL instance in one command** — full DDL, DMVs, backup history, security audit, design-quality checks, per-table data samples. Cross-platform schedulers (Task Scheduler · SQL Agent · SSIS · cron · systemd).
+MSc Data Science and Business Informatics, University of Pisa. BSc Digital Humanities (Pisa), BSc Telecommunications Engineering.
 
-`PowerShell · SQL Server · Azure SQL · Synapse · Fabric`
+## Languages
 
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ <a href="https://github.com/mojiTMJ/azure-adf-dynamic-ingestion">azure-adf-dynamic-ingestion</a>
-Metadata-driven **Azure Data Factory** ingestion template — managed-identity auth, multi-env CI/CD (dev/staging/prod), and PR validation (JSON schema + hardcoded-secret scanning). Drop-in for any ADF estate.
-
-`Azure Data Factory · Managed Identity · CI/CD`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📜 <a href="https://github.com/mojiTMJ/italianAcademies1525-1700">italianAcademies 1525–1700</a>
-Digital-humanities side project: **175 years of Italian academies as a property graph in Neo4j**, visualized in the browser with popoto.js. Where data engineering meets the archive.
-
-`Neo4j · Graph DBs · Digital Humanities`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 <a href="https://mojitmj.github.io/">mojitmj.github.io</a>
-**Live portfolio**: dual-positioning landing page (AI / DataOps / DE / BI / DA), animated streaming-source boot, EN/IT toggle with Italian-flag theme, live chat overlay, full visitor metadata pipeline.
-
-`Vanilla JS · Web3Forms · GitHub Pages`
-
-</td>
-</tr>
-</table>
-
-</div>
+English C1 · Italian C1 · Persian native
 
 ---
 
-## 💡 Quote of the day
+## Contact
 
-<div align="center">
+- Email: [DsBiConsultant@gmail.com](mailto:DsBiConsultant@gmail.com)
+- LinkedIn: [linkedin.com/in/mojitmj](https://www.linkedin.com/in/mojitmj/)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
-
-</div>
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mojiTMJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&icon_color=C084FC&text_color=E2E8F0" alt="Moji's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=10&hide=html,css" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mojiTMJ&theme=tokyonight&hide_border=true&background=02030A&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C084FC&dates=94A3B8" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mojiTMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=02030A&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Wakatime languages" />
-
-</div>
-
-### ⏱️ This week's coding rhythm (Wakatime)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 September 2026 - To: 01 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mojiTMJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mojiTMJ&theme=tokyo-night&bg_color=02030A&color=22D3EE&line=C084FC&point=EC4899&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mojiTMJ/mojiTMJ/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📣 Recent GitHub activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mojiTMJ/mojiTMJ/pull/5) in [mojiTMJ/mojiTMJ](https://github.com/mojiTMJ/mojiTMJ)
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->- [I Tested Crowdwide v1 for 48 Hours. Here Is What Worked, What Broke, and Whether You Should Join.](https://dev.to/koda2026/i-tested-crowdwide-v1-for-48-hours-here-is-what-worked-what-broke-and-whether-you-should-join-ppd) <kbd>Sun Oct 04 2026 4:58 AM</kbd>- [Turn finished visits into reviews and rebookings: an n8n follow-up workflow, JSON included](https://dev.to/vlotstroom/turn-finished-visits-into-reviews-and-rebookings-an-n8n-follow-up-workflow-json-included-1ca2) <kbd>Sun Oct 04 2026 4:57 AM</kbd>- [Perplexity Pro Pricing Explained: Free vs Pro vs Max in 2026](https://dev.to/stimlau/perplexity-pro-pricing-explained-free-vs-pro-vs-max-in-2026-36ae) <kbd>Sun Oct 04 2026 4:57 AM</kbd>- [Best Notion AI Alternatives in 2026](https://dev.to/stimlau/best-notion-ai-alternatives-in-2026-n6j) <kbd>Sun Oct 04 2026 4:56 AM</kbd>- [Gaming Event Notifications: How to Stop Malformed JSON Email API Requests](https://dev.to/riftg84/gaming-event-notifications-how-to-stop-malformed-json-email-api-requests-7cb) <kbd>Sun Oct 04 2026 4:53 AM</kbd><!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Engage me for
-
-- 🏗️ **Data platform / DataOps** — metadata-driven ETL, star-schema datamarts, lakehouse on ADF + Databricks, CI/CD, governance, FinOps
-- 🔧 **SQL Server modernization** — legacy → Azure SQL / MI / Fabric with replayable migrations
-- 📊 **BI / Power BI rescues** — slow reports, wrong numbers, ungoverned sprawl
-- 🤖 **Production AI** — taking LLM / RAG / agent prototypes to systems that survive Tuesday morning
-- 🛡️ **AI evaluation & guardrails** — golden sets, drift detection, regression gates, jailbreak hardening
-- ⚡ **Edge AI** — Azure AI Foundry Local · ONNX · on-device LLMs for latency- or privacy-bound workloads
-
----
-
-## 💬 Currently
-
-```yaml
-shipping:    metadata-driven datamarts & ADF pipelines on Azure for IT/EU clients
-building:    sqlsnapshot v2 — Azure SQL DB + Fabric warehouse coverage
-exploring:   production AI on Azure + on-device LLMs (Phi-3, Llama-3) via Foundry Local
-reading:     "Designing Data-Intensive Applications" (annual re-read)
-sipping:     a long espresso ☕
-```
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://mojitmj.github.io/"><img src="https://img.shields.io/badge/Portfolio-mojitmj.github.io-22D3EE?style=for-the-badge&labelColor=02030A" /></a>
-<a href="https://www.linkedin.com/in/mojitmj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02030A" /></a>
-<a href="https://t.me/mojitmj"><img src="https://img.shields.io/badge/Telegram-Chat_with_me-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=02030A" /></a>
-<a href="mailto:DsBiConsultant@Gmail.com"><img src="https://img.shields.io/badge/Email-DsBiConsultant-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=02030A" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mojiTMJ&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/mojiTMJ?label=Followers&style=for-the-badge&color=C084FC&labelColor=02030A" alt="Followers" />
-
-</div>
-
----
-
-<div align="center">
-
-> *"Pipelines should be like good plumbing — invisible, reliable, and someone else's problem when they break. I'm the someone else."*
-
-<br/>
-
-<sub>🟢🤍🔴 Fatto con espresso ☕ &amp; 🍕 a <b>Milano</b> · Ciao mondo!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=80&section=footer&animation=twinkling" />
-
-</div>
+<sub>Most of my client work lives in private repositories under NDA. The public projects above are clean-room implementations of the same patterns, on synthetic or public data.</sub>
